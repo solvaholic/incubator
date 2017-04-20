@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Solvaholic's Incubator
+A friendly mama duck for developing ideas
 
-You can use the [editor on GitHub](https://github.com/solvaholic/incubator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/solvaholic/incubator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Workflow
+1. Create a branch to work in
+2. Push a new .md file to the branch, based on `idea_template.md`
+3. Create a Pull Request for the branch, with this checklist:
+    ```
+    - [ ] What is the problem?
+    - [ ] Who has this problem?
+    - [ ] What solutions exist?
+    - [ ] What will we do about it?
+    ```
+4. Mention and link to the idea in `new_ideas.md`
+5. Fill out the idea's .md file and update the checklist
+6. Merge the Pull Request, consider giving the idea its own project
+7. Move the idea from `new_ideas.md` to `index.md`
