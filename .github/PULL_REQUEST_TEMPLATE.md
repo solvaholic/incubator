@@ -1,0 +1,4 @@
+- [ ] What is the problem?
+- [ ] Who has this problem?
+- [ ] What solutions exist?
+- [ ] What will we do about it?
